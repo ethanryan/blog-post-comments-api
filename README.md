@@ -1,24 +1,19 @@
-# README
+Visit the BlogPostComment app here:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://blog-post-comments-client.herokuapp.com/
 
-Things you may want to cover:
+Instructions for downloading:
 
-* Ruby version
+fork project
 
-* System dependencies
+run bundle install and bundle update
 
-* Configuration
+run server with rails s
 
-* Database creation
+should be able to view localhost:3000/posts (will be an empty array)
 
-* Database initialization
+then, to see app locally:
 
-* How to run the test suite
+fork React frontend and follow instructions here:
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/ethanryan/blog-post-comments-client
